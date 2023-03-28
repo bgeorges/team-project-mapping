@@ -1,0 +1,13 @@
+{
+  "data": {
+    "csv_file": "../data/teams_projects.csv"
+  },
+  "graph": {
+    "node_color": "#1f78b4"
+  },
+  "logging": {
+    "log_level": "ERROR",
+    "log_file": "errors.log"
+  }
+}
+
