@@ -14,7 +14,7 @@ This project generates a bipartite graph that represents the associations betwee
 
 ```bash
 pip install networkx matplotlib
-
+```
 
 Update the config.json file with the desired settings for the data file, graph display, and logging.
 
@@ -26,6 +26,7 @@ Run the main.py script inside the src folder:
 
 ```bash
 python main.py
+```
 
 The script will read the associations from the CSV file, generate a bipartite graph, and display the graph. If any errors are encountered while reading the CSV file, the errors will be logged in the specified log file.
 
